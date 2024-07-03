@@ -45,5 +45,8 @@ const pushData = {
 // const result = await db.push(pushData);
 // console.log(result)
 
-export default Oxdb;
-export { pushData };
+module.exports = {
+  Oxdb,
+  pushData
+  
+};
