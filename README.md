@@ -1,2 +1,10 @@
 # ox-db.js
-Javascript binding for ox-db
+
+
+
+
+## code-snipet :
+
+```js
+import "OxDb"
+```
